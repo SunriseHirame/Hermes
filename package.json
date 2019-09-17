@@ -1,0 +1,17 @@
+{
+  "name": "com.hirame.hermes",
+  "version": "0.0.0",
+  "displayName": "Hirame Hermes",
+  "description": "Text and Dialog Tool.",
+  "unity": "2019.1",
+  "unityRelease": "0b5",
+  "dependencies": {
+ },
+ "keywords": [
+  ],
+  "author": {
+    "name": "Bernhard Miettinen",
+    "email": "bernhard.miettinen@gmail.com",
+    "url": "https://www.github.com/sunrisehirame"
+  } 
+}
